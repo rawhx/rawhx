@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 # 📊 Github Status
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rawhx&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" height="200px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rawhx&theme=tokyonight" alt="mystreak" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rawhx&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="500px" height="200px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rawhx&theme=tokyonight" alt="mystreak" height="200px" width="500px" />
 </div>
 
