@@ -1,6 +1,6 @@
 <h1 align="center">Hi everyone, I'm Achmad Hasbil 👋</h1>
 <div align="center">
-  <a href="https://www.linkedin.com/in/achmad-hasbil" target="_blank">
+  <a href="https://www.linkedin.com/in/achmad-hasbil-479623270/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://instagram.com/achmad.hasbil" target="_blank">
