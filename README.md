@@ -1,60 +1,76 @@
-<h1 align="center">Hi everyone, I'm Achmad Hasbil 👋</h1>
 <div align="center">
-  <a href="https://www.linkedin.com/in/achmad-hasbil-479623270/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://instagram.com/achmad.hasbil" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+
+# Achmad Hasbil
+
+### Web Developer | Backend-Focused Full-Stack Developer
+
+Building reliable, maintainable, and scalable web applications.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achmad-hasbil-479623270/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/achmad.hasbil)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rawhx)
+
+![Profile Views](https://komarev.com/ghpvc/?username=rawhx&label=Profile%20Views&color=0e75b6&style=flat)
+
 </div>
 
+---
 
-<!--
-**rawhx/rawhx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Web Developer with a strong interest in backend engineering and full-stack development. I enjoy building web applications, designing RESTful APIs, and developing systems that are reliable, maintainable, and easy to scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Focused on backend development, REST APIs, and full-stack applications.
+- 🌱 Continuously improving my skills in software engineering and web technologies.
+- 🤝 Open to collaboration, open-source projects, and knowledge sharing.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/achmad-hasbil-479623270/).
 
-# 💻 I'm Using:
+---
+
+## Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,js,ts,php,html,css" alt="Programming Languages" />
+</p>
+
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,jquery" alt="Frontend Technologies" />
+</p>
+
+**Backend & Database**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql" alt="Backend and Database Technologies" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,godot,discord,npm" alt="Development Tools and Platforms" />
+</p>
+
+---
+
+## GitHub Statistics
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="linux logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="40"  />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40"  />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
-  <img src="https://skillicons.dev/icons?i=npm" height="40"  />
-  <img src="https://skillicons.dev/icons?i=php" height="40"  />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" />
-  <img src="https://skillicons.dev/icons?i=react" height="40"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40"  />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40"  />
-  <img src="https://skillicons.dev/icons?i=vite" height="40"  />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40"  />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40"  />
-  <img src="https://skillicons.dev/icons?i=html" height="40" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" />
-  <img src="https://skillicons.dev/icons?i=godot" height="40" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=rawhx&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawhx&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Most Used Languages" />
+
+<img src="https://streak-stats.demolab.com/?user=rawhx&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
 </div>
 
-# 📊 Github Status
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rawhx&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="500px" height="200px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rawhx&theme=tokyonight" alt="mystreak" height="200px" width="500px" />
-</div>
+---
 
+<div align="center">
+
+⭐ Feel free to explore my repositories and leave a star if you find something useful!
+
+</div>
